@@ -3,7 +3,7 @@ This is a project to store code used to try out things
 
 ## How to use this repo
 
-This is a single line code or inline code ´print(#hello world")´
+This is a single line code or inline code ´print("hello world")´
 
 this is a code block
 ´´´
